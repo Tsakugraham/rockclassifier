@@ -1,0 +1,1 @@
+Created a folder structure to store train images for the ML model
